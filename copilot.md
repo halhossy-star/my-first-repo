@@ -39,8 +39,8 @@
 ---
 
 ## 📫 Contact
-- GitHub: **@your-username**
-- Email: **your-email@example.com**
+- GitHub: **@halhossy-star**
+- Email: **hal.hossy@gmail.com**
 
 ---
 
